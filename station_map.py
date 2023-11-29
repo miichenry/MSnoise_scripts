@@ -31,7 +31,7 @@ import folium
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
 
-from ..api import *
+from msnoise.api import *
 
 
 def main(show=True, outfile=None):

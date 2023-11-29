@@ -1,0 +1,145 @@
+msnoise plot ccftime CH.BALST CH.BOURR -m 7
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 14
+msnoise plot ccftime CH.BALST CH.MTI02 -m 14 
+msnoise plot ccftime CH.BALST CH.SAIRA -m 14
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 14 
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 14 
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 14
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 21
+msnoise plot ccftime CH.BALST CH.MTI02 -m 21 
+msnoise plot ccftime CH.BALST CH.SAIRA -m 21 
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 21 
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 21 
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 21
+
+## interferogram
+
+# Mov Stack 7
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 7 -f 1 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7 -f 1 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7 -f 1 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7 -f 1 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7 -f 1 -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7 -f 1 -o ?.pdf
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 7 -f 2 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7 -f 2 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7 -f 2 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7 -f 2 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7 -f 2 -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7 -f 2 -o ?.pdf
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 7 -f 3 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7 -f 3 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7 -f 3 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7 -f 3 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7 -f 3 -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7 -f 3 -o ?.pdf
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 7 -f 4 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7 -f 4 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7 -f 4 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7 -f 4 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7 -f 4 -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7 -f 4 -o ?.pdf
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 7 -f 5 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7 -f 5 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7 -f 5 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7 -f 5 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7 -f 5 -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7 -f 5 -o ?.pdf
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 7 -f 6 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7 -f 6 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7 -f 6 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7 -f 6 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7 -f 6 -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7 -f 6 -o ?.pdf
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 7 -f 7 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 7 -f 7 -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 7 -f 7 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 7 -f 7 -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 7 -f 7 -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 7 -f 7 -o ?.pdf
+
+# Mov Stack 14
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 14 -f -o ?.pdf
+msnoise plot ccftime CH.BALST CH.MTI02 -m 14 -f -o ?.pdf
+msnoise plot ccftime CH.BALST CH.SAIRA -m 14 -f -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 14 -f -o ?.pdf
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 14 -f -o ?.pdf
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 14 -f -o ?.pdf
+
+# Mov Stack 21
+
+msnoise plot ccftime CH.BALST CH.BOURR -m 21 -f 
+msnoise plot ccftime CH.BALST CH.MTI02 -m 21 -f 
+msnoise plot ccftime CH.BALST CH.SAIRA -m 21 -f 
+msnoise plot ccftime CH.BOURR CH.MTI02 -m 21 -f 
+msnoise plot ccftime CH.BOURR CH.SAIRA -m 21 -f 
+msnoise plot ccftime CH.MTI02 CH.SAIRA -m 21 -f 
+
+
+## MWCS 
+
+# Mov Stack 7
+
+msnoise plot mwcs CH.BALST CH.BOURR -m 7 -f 1 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.MTI02 -m 7 -f 1 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.SAIRA -m 7 -f 1 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.MTI02 -m 7 -f 1 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.SAIRA -m 7 -f 1 -o ?.pdf
+msnoise plot mwcs CH.MTI02 CH.SAIRA -m 7 -f 1 -o ?.pdf
+
+msnoise plot mwcs CH.BALST CH.BOURR -m 7 -f 2 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.MTI02 -m 7 -f 2 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.SAIRA -m 7 -f 2 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.MTI02 -m 7 -f 2 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.SAIRA -m 7 -f 2 -o ?.pdf
+msnoise plot mwcs CH.MTI02 CH.SAIRA -m 7 -f 2 -o ?.pdf
+
+msnoise plot mwcs CH.BALST CH.BOURR -m 7 -f 3 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.MTI02 -m 7 -f 3 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.SAIRA -m 7 -f 3 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.MTI02 -m 7 -f 3 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.SAIRA -m 7 -f 3 -o ?.pdf
+msnoise plot mwcs CH.MTI02 CH.SAIRA -m 7 -f 3 -o ?.pdf
+
+msnoise plot mwcs CH.BALST CH.BOURR -m 7 -f 4 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.MTI02 -m 7 -f 4 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.SAIRA -m 7 -f 4 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.MTI02 -m 7 -f 4 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.SAIRA -m 7 -f 4 -o ?.pdf
+msnoise plot mwcs CH.MTI02 CH.SAIRA -m 7 -f 4 -o ?.pdf
+
+msnoise plot mwcs CH.BALST CH.BOURR -m 7 -f 5 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.MTI02 -m 7 -f 5 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.SAIRA -m 7 -f 5 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.MTI02 -m 7 -f 5 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.SAIRA -m 7 -f 5 -o ?.pdf
+msnoise plot mwcs CH.MTI02 CH.SAIRA -m 7 -f 5 -o ?.pdf
+
+msnoise plot mwcs CH.BALST CH.BOURR -m 7 -f 6 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.MTI02 -m 7 -f 6 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.SAIRA -m 7 -f 6 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.MTI02 -m 7 -f 6 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.SAIRA -m 7 -f 6 -o ?.pdf
+msnoise plot mwcs CH.MTI02 CH.SAIRA -m 7 -f 6 -o ?.pdf
+
+msnoise plot mwcs CH.BALST CH.BOURR -m 7 -f 7 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.MTI02 -m 7 -f 7 -o ?.pdf
+msnoise plot mwcs CH.BALST CH.SAIRA -m 7 -f 7 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.MTI02 -m 7 -f 7 -o ?.pdf
+msnoise plot mwcs CH.BOURR CH.SAIRA -m 7 -f 7 -o ?.pdf
+msnoise plot mwcs CH.MTI02 CH.SAIRA -m 7 -f 7 -o ?.pdf

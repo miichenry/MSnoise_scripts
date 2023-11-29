@@ -22,7 +22,7 @@ from matplotlib.dates import date2num
 from pandas.plotting import register_matplotlib_converters
 register_matplotlib_converters()
 
-from ..api import *
+from msnoise.api import *
 
 
 def main(show=False, outfile=None):

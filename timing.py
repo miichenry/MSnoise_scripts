@@ -16,7 +16,7 @@ Example:
 import matplotlib.gridspec as gridspec
 import matplotlib.pyplot as plt
 
-from ..api import *
+from msnoise.api import *
 
 
 def main(mov_stack=None, dttname="A", components='ZZ', filterid=1,

@@ -18,7 +18,7 @@ Example
 
 import matplotlib.pyplot as plt
 
-from ..api import *
+from msnoise.api import *
 
 
 def main(sta1, sta2, filterid, components, day, mov_stack=1, show=True,

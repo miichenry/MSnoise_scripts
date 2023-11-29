@@ -42,7 +42,7 @@ register_matplotlib_converters()
 
 from obspy.signal.filter import envelope as obspy_envelope
 from obspy.signal.filter import bandpass
-from ..api import *
+from msnoise.api import *
 
 
 def main(sta1, sta2, filterid, components, mov_stack=1, ampli=5, seismic=False,
